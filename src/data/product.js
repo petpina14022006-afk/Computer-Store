@@ -17,17 +17,6 @@ import Swift from '../../public/products/display/dis1.png'
 import VG27AQ from '../../public/products/display/dis2.png'
 import PA278CV from '../../public/products/display/dis3.png'
 
-
-
-
-
- 
-
-
-
-
-
-
 const products = [
   {
     id: 1,
