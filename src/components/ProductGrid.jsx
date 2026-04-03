@@ -66,7 +66,7 @@ const ProductGrid = () => {
 
         {filteredProducts.length === 0 && (
           <div className="text-center py-12">
-            <p className=" font-bold">No products found matching your criteria</p>
+            <p className=" font-bold">No products found matching your criteriad</p>
           </div>
         )}
       </div>
